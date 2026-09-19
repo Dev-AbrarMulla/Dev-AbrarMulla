@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abrar 👋</h1>
+<h1 align="center">Hey, I'm Abrar Mulla 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=CS+Undergrad+%40+BITS+Pilani+Dubai;AI%2FML+Engineering;NLP+%7C+LLM+Applications;Building+things+that+learn" alt="Typing SVG" />
